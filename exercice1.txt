@@ -1,0 +1,10 @@
+# Exercice 1 : Clone
+
+Ce fichier est utilisé pour l'exercice sur le CLONE.
+
+## Instructions
+Ajoutez votre nom ci-dessous :
+
+Liste des participants :
+- 
+
